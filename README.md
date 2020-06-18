@@ -6,6 +6,9 @@ This repository contains the following files:
 -In depth analysis of the Forensic Artifacts produced by Financial Fraud
 -Case study of the Securities Fraud committed by Osiris Therapeutics 
 
+2. Zurowski_Incident_Response.pdf
+-Case Study of the TJX Data Breach Incident
+-Analysis of the causes and long term effects of the breach
 
 
 A number of files are available upon request. These files are related to source material that is actively used for educational purposes and are not publicly posted to maintain integrity of the source material. Please reach out to for access to the private repository. These include:
